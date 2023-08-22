@@ -110,13 +110,13 @@
         width: 120px;
         margin-top: 14px;
     }
-    .cart-item__top {
+    /* .cart-item__top {
         top: 125px;
         left: 72px;
         font-size: 8px;
         width: 12px;
         height: 12px;
-    }
+    } */
     .categories {
         margin-top: 14px;
     }
@@ -207,7 +207,7 @@
         /* top: 128px;
         right: 388px; */
         top: 102px;
-        right: 456px;
+        right: 600px;
     }
     ul.products-sanpham li {
         flex-basis: 32%;
