@@ -469,8 +469,8 @@ input[type="search" i] {
 }
 
 .shopping-cart-item {
-    /* display: flex;
-    position: relative; */
+    display: flex;
+    position: relative;
     margin: 5px 9px;
     background-color: #fff;
     font-size: 14px;
@@ -497,9 +497,12 @@ input[type="search" i] {
     border-radius: 50%;
     color: white;
     position: absolute;
-    top: 32px;
-    right: 378px;
+    /* top: 32px;
+    right: 378px; */
+    top: 0px;
+    right: 64px;
     font-size: 11px;
+
 }
 
 .cart-item__top:hover {
